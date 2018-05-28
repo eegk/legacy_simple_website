@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Template 13</title>
+<meta name="description" content="A description of your website">
+<meta name="keywords" content="keyword1, keyword2, keyword3">
+<link href="css/style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+
+<div id="wrapper"> 
+  
+  <div id="header">
+  
+  <div class="banner_img">
+    <h1>Enter Site Title</h1>
+    <p>Enter Site Slogan</p>
+    </div>
+
+	</div>
+	
+	<div class="navigation">
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Contact</a></li>
+        <li><a href="#">About Me</a></li>
+      </ul>
+    </div>
+  
+  <div class="right_side_bar"> 
+      
+      <div class="col_1">
+        <h1>Main Menu</h1>
+        <div class="box">
+          <ul>
+            <li><a href="#">Menu Item 1</a></li>
+          </ul>
+        </div>
+      </div>
+      
+      <div class="col_1">
+        <h1>Contact</h1>
+        <div class="box">
+          <p> mail: eegonzalezk@mail.com
+           <a href="https://www.facebook.com/eegonzalezk">Facebook</a> 
+           <a href="https://twitter.com/BerserkEdgar">Facebook</a>       
+          </p>
+        </div>
+      </div>
+      
+    </div>    
+  <div id="page_content">
+    <div class="left_section">
+      <div class="common_content">
+        <h2>Introduction</h2>
+        <p>I'm Edgar E. G. Kozlova, Ph.D. Bioinformatics.
+        </p>
+           <hr>
+      </div>
+
+      <div class="top_content border_none">
+        <div class="column_one">
+          <h2>Biology</h2>
+          <p> What is life? </p>
+          <br>
+          <p><a href="#" class="btn">More</a></p></div>
+        <div class="column_two">
+          <h2>Computer Science</h2>
+          <p> What is a simulation? </p>
+          <br>
+		  <p><a href="#" class="btn">More</a></p>
+        </div>
+      </div>
+    </div>
+    
+    
+  <div class="clear"></div>
+  
+  <!--start footer from here-->
+  <div id="footer">Copyright &copy; 2014. Design by <a href="http://www.htmltemplates.net" target="_blank">html templates</a><br>
+  
+  <!--DO NOT remove footer link-->
+  <!--Template designed by--><a href="http://www.htmltemplates.net"><img src="images/footer.gif" class="copyright" alt="htmltemplates.net"></a>
+  </div>
+  
+  <!--/. end footer from here--> 
+</div>
+</div>
+
+</body></html>
