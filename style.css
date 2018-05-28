@@ -145,7 +145,7 @@ h6 {
 }
 
 #header .banner_img{
-	background:url(../images/header.jpg) no-repeat left top;
+	background:url(../header.png) no-repeat left top;
 	height:177px;
 	padding:90px 95px 0 95px;
 	-webkit-border-radius: 5px 5px 0px 0px;-moz-border-radius: 5px 5px 0px 0px;border-radius: 5px 5px 0px 0px;
@@ -279,7 +279,7 @@ a.btn:hover{
 	padding:0 0 0 25px;
 	font-family:Georgia, "Times New Roman", Times, serif;
 	margin-bottom:10px;
-	background:url(../images/star.png) no-repeat left center;
+	background:url(../star.png) no-repeat left center;
 }
 
 .right_side_bar .col_1{
@@ -302,7 +302,7 @@ a.btn:hover{
 	padding:0px 0px 0px 15px;
 	font-size:12px;
 	list-style-type:none;
-	background:url(../images/li.png) no-repeat left center;
+	background:url(../li.png) no-repeat left center;
 }
 
 .right_side_bar .col_1 .box ul li a{
