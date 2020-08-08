@@ -145,7 +145,7 @@ h6 {
 }
 
 #header .banner_img{
-	background:url(../header.jpg) no-repeat left top;
+	background:url(../header.png) no-repeat left top;
 	height:177px;
 	padding:90px 95px 0 95px;
 	-webkit-border-radius: 5px 5px 0px 0px;-moz-border-radius: 5px 5px 0px 0px;border-radius: 5px 5px 0px 0px;
@@ -217,7 +217,7 @@ h6 {
 
 #page_content .left_section{
 	background-color:#dae1d1;
-	padding:15px;
+	padding:10px;
 	width:740px;
 	float:left;
 	-webkit-border-radius: 5px;-moz-border-radius: 5px;border-radius: 5px;
